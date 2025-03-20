@@ -88,7 +88,7 @@ if __name__ == '__main__':
             "token": pushplus_token,
             "title": title,
             "content": context,
-            "template": "html"
+            "template": "json"
         }
         
         try:
